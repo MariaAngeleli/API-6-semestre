@@ -53,7 +53,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-![jira](https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1)
+![jira] (https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1)
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
