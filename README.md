@@ -53,7 +53,8 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-[!jira] (https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
+[!jira] [![Jira Badge](https://logosmarcas.net/wp-content/uploads/2021/03/Jira-Logo.png)]
+(https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
