@@ -68,21 +68,23 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
 
 ## Sprint 0. Concepção
+- [x] Criação da conta pública no Github;
+- [x] Criação da conta no Jira;
 - [x] Defina o objetivo do projeto;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+- [ ] Definição de prazos;
+- [ ] Atribuição de responsáveis as atividades;
+- [ ] Configurar o ambiente no Jira para gerenciamento de projetos.
+- [ ] Fazer ajustes com base no feedback recebido;
+- [ ] Manter documentação atualizada no repositório do GitHub.
 
-
-## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 1. Análise Inicial
+- [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
+- [ ] Cálculo de distâncias dos dados recebidos;
+- [ ] Apresentar os resultados iniciais aos stakeholders para validação;
+- [ ] Fazer ajustes com base no feedback recebido;
+- [ ] Manter documentação atualizada no repositório do GitHub.
       
-## Sprint 2 . Implementação
+## Sprint 2 . 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -93,7 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 3. Operacionalização
+## Sprint 3. 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -104,7 +106,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-- [ ] ## Sprint 4. Operacionalização
+- [ ] ## Sprint Feira de Soluções. 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
