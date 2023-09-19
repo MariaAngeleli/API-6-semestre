@@ -53,7 +53,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-[!jira] [![Jira Badge](]
+[!jira] [![Jira Badge](https://github.com/MariaAngeleli/API-6-semestre/blob/main/Jira-Logo.png]
 (https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
 
   ### Produto 
