@@ -68,6 +68,32 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
 
 ## Sprint 0. Concepção
+- [x] Defina o objetivo do projeto;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+
+
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes.
+      
+## Sprint 2 . Implementação
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+      
+## Sprint 3. Operacionalização
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -78,25 +104,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
+- [ ] ## Sprint 4. Operacionalização
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
