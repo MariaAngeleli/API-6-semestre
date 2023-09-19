@@ -85,37 +85,37 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 2 . 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [ ] ;
+- [ ] ;
+- [ ] ;
+- [ ] .
       
 ## Sprint 3. 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [ ] ;
+- [ ] ;
+- [ ] ;
+- [ ] .
 
 - [ ] ## Sprint Feira de Soluções. 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [x] ;
+- [ ] ;
+- [ ] ;
+- [ ] ;
+- [ ] .
 
   
 <div align="center">
