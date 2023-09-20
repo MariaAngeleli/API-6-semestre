@@ -55,11 +55,6 @@ Adicionar video e documentos nessa seção
 
 <img width="474" alt![Metodologias](https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/021a34d4-7c75-4e87-8422-7059fdd83dae)
 
-
-(="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/06d1eaac-44ba-4b3e-b634-61d5dcac0d9d">)
-
-![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
-
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
 
