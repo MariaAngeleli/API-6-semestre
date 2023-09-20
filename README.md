@@ -52,7 +52,8 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-<img width="1920" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/b545e137-9c4b-4bfa-8992-f55d9ac7a288">
+
+<img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/06d1eaac-44ba-4b3e-b634-61d5dcac0d9d">
 
 ![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
 
