@@ -61,7 +61,7 @@ Adicionar video e documentos nessa seção
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
+#### Cronograma das Sprints[(clique aqui)](https://amandabrib.atlassian.net/jira/software/projects/A62E2/boards/2/backlog)
 
 # Backlog do produto
 
