@@ -52,8 +52,8 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
+<img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/46ce5a9b-f31b-41f4-be8b-14cca55412ae">
 
-![62a9ad9c8ff6441a2952dabb](https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/a17fa1b8-0f13-4edf-9f12-963f33982daa)
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
