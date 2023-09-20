@@ -57,7 +57,7 @@ Adicionar video e documentos nessa seção
   > Descreva aqui a parte do MVP referente a Sprint
 
 # Cronograma das Sprints
-![Uploading Sem título.png…]()
+![Uploading Sem título.png…](https://amandabrib.atlassian.net/jira/software/projects/A62E2/boards/2/timeline)
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
