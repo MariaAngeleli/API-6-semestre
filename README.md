@@ -53,7 +53,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-[!jira] [![Jira Badge](https://github.com/MariaAngeleli/API-6-semestre/blob/main/Jira-Logo.png]
+[![Jira Badge](link da imagem]
 (https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
 
   ### Produto 
@@ -63,7 +63,7 @@ Adicionar video e documentos nessa seção
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
 
 # Backlog do produto
 
