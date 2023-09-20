@@ -54,6 +54,7 @@ Adicionar video e documentos nessa seção
 ## Tecnologias Utilizadas
 
 [![Jira Badge](link da imagem]
+![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
 (https://amandabrib.atlassian.net/jira/software/projects/KAN/boards/1/)
 
   ### Produto 
