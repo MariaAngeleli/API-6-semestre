@@ -66,10 +66,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 0. Concepção
 - [x] Criação da conta pública no Github;
+- [x] Disponibilizar link do GitHub;
+- [ ] Checar se todos os membros têm acesso;
+- [ ] Definir responsável pela atualização;
 - [x] Criação da conta no Jira;
+- [ ] Disponibilizar link do Jira;
 - [x] Defina o objetivo do projeto;
 - [ ] Definição de prazos;
-- [ ] Atribuição de responsáveis as atividades;
+- [ ] Divisão de atividades entre o time;
 - [ ] Configurar o ambiente no Jira para gerenciamento de projetos.
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
