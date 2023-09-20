@@ -53,7 +53,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-<img width="474" alt![Metodologias](https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/021a34d4-7c75-4e87-8422-7059fdd83dae)
+(https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/021a34d4-7c75-4e87-8422-7059fdd83dae)
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
