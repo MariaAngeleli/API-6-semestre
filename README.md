@@ -81,41 +81,33 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
 - [ ] Cálculo de distâncias dos dados recebidos;
 - [ ] Apresentar os resultados iniciais aos stakeholders para validação;
+- [ ] Identificar métricas de produtividade e custo
+- [ ] Estabalecer conexão com as fontes de dados dos veículos e rotas
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 2 . 
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
-- [ ] ;
-- [ ] ;
-- [ ] ;
-- [ ] .
+- [ ] Executar simulações para encontrar as rotas mais eficientes;
+- [ ] Análise utilizando o Python;
+- [ ] Implementar um modelo de otimização de distribuição baseado no Método de Transporte;
+- [ ] Fazer ajustes com base no feedback recebido;
+- [ ] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 3. 
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
-- [ ] ;
-- [ ] ;
-- [ ] ;
-- [ ] .
+- [ ] Desenvolver consultas SQL para extrair dados relevantes;
+- [ ] Conectar os panéis aos dados do banco de dados SQL;
+- [ ] Criar painéis no BI para apresentação de resultados;
+- [ ] Desenvolver gráficos interativos para fácil compreensão;
+- [ ] Fazer ajustes com base no feedback recebido;
+- [ ] Manter documentação atualizada no repositório do GitHub;
 
-- [ ] ## Sprint Feira de Soluções. 
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
-- [x] ;
+
+   ## Sprint Feira de Soluções. 
 - [ ] ;
 - [ ] ;
 - [ ] ;
-- [ ] .
+- [ ] ;
+
 
   
 <div align="center">
