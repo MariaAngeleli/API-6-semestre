@@ -71,10 +71,11 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Definir responsável pela atualização;
 - [x] Criação da conta no Jira;
 - [x] Disponibilizar link do Jira;
-- [x] Defina o objetivo do projeto;
+- [ ] Defina o objetivo do projeto;
 - [ ] Definição de prazos;
 - [ ] Divisão de atividades entre o time;
-- [ ] Configurar o ambiente no Jira para gerenciamento de projetos.
+- [ ] Configurar o ambiente no Jira para gerenciamento de projetos;
+- [ ] Montar a apresentação no PowerPoint;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
 
@@ -83,7 +84,8 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [ ] Cálculo de distâncias dos dados recebidos;
 - [ ] Apresentar os resultados iniciais aos stakeholders para validação;
 - [ ] Identificar métricas de produtividade e custo
-- [ ] Estabalecer conexão com as fontes de dados dos veículos e rotas
+- [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
+- [ ] Análise utilizando o Python;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
       
