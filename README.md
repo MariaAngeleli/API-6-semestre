@@ -170,4 +170,5 @@ Requisitos não funcionais
 |  Team Member  | Natali Cristine      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/natali-santos-453949171) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/NataliCSantos)|
 
 
-![frame](https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/7c61116a-d75f-4362-9742-e7cd0454ed29)
+
+![frame (3)](https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/eda10d28-c6d6-4a21-971c-4da894d653d4)
