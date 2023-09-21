@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -40,10 +40,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 
 Adicionar video e documentos nessa seção
 
@@ -58,7 +58,7 @@ Adicionar video e documentos nessa seção
 
 # Cronograma das Sprints
 
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá, é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://amandabrib.atlassian.net/jira/software/projects/A62E2/boards/2/backlog)
 
@@ -164,7 +164,7 @@ Requisitos não funcionais
 | Product Owner |   Amanda Ribeiro         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/amanda-ribeiro-b50157a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AmandaBaRibeiro)              |
 | Scrum Master  | Maria Fernanda |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/maria-fernanda-angeleli/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaAngeleli)     |
 | Team Member   | Amanda Santos              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-52686a22a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Amanda-Santos01)        |
-|  Team Member  | Guilherme Martins                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Amanda-Santos01)        |
+|  Team Member  | Guilherme Martins                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-martins-bachesque-532a14a9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Amanda-Santos01)        |
 |  Team Member  |   Julia Alves               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-alves-9227411bb/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaalves2000)   |
 |  Team Member  | Mirella de Fátima      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mirella0689)          |
-|  Team Member  | Natali Cristine      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](/https://github.com/gioliveirass/)|
+|  Team Member  | Natali Cristine      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/natali-santos-453949171) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](/https://github.com/gioliveirass/)|
