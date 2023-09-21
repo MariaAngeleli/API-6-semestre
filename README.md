@@ -70,7 +70,7 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [ ] Checar se todos os membros têm acesso;
 - [ ] Definir responsável pela atualização;
 - [x] Criação da conta no Jira;
-- [ ] Disponibilizar link do Jira;
+- [x] Disponibilizar link do Jira;
 - [x] Defina o objetivo do projeto;
 - [ ] Definição de prazos;
 - [ ] Divisão de atividades entre o time;
