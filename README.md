@@ -83,8 +83,9 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
 - [ ] Cálculo de distâncias dos dados recebidos;
 - [ ] Apresentar os resultados iniciais aos stakeholders para validação;
-- [ ] Identificar métricas de produtividade e custo
+- [ ] Identificar métricas de produtividade e custo;
 - [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
+- [ ] Calcular frete no Incoterms FOB;
 - [ ] Análise utilizando o Python;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
