@@ -69,13 +69,13 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Disponibilizar link do GitHub;
 - [x] Checar se todos os membros têm acesso;
 - [x] Definir responsável pela atualização;
-- [ ] Manter documentação atualizada no repositório do GitHub;
+- [x] Manter documentação atualizada no repositório do GitHub;
 - [x] Criação da conta no Jira;
 - [x] Disponibilizar link do Jira;
 - [ ] Configurar o ambiente no Jira para gerenciamento de projetos;
 - [ ] Defina o objetivo do projeto;
-- [ ] Definição de prazos;
-- [ ] Divisão de atividades entre o time;
+- [x] Definição de prazos;
+- [x] Divisão de atividades entre o time;
 - [ ] Montar a apresentação no PowerPoint;
 - [ ] Gravação do vídeo demonstrando a funcionalidade do Jira;
 - [ ] Gravação do vídeo demonstrando a funcionalidade do GitHub;
