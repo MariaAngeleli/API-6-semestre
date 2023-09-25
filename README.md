@@ -69,15 +69,18 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Disponibilizar link do GitHub;
 - [x] Checar se todos os membros têm acesso;
 - [x] Definir responsável pela atualização;
+- [ ] Manter documentação atualizada no repositório do GitHub;
 - [x] Criação da conta no Jira;
 - [x] Disponibilizar link do Jira;
+- [ ] Configurar o ambiente no Jira para gerenciamento de projetos;
 - [ ] Defina o objetivo do projeto;
 - [ ] Definição de prazos;
 - [ ] Divisão de atividades entre o time;
-- [ ] Configurar o ambiente no Jira para gerenciamento de projetos;
 - [ ] Montar a apresentação no PowerPoint;
-- [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Manter documentação atualizada no repositório do GitHub.
+- [ ] Gravação do vídeo demonstrando a funcionalidade do Jira;
+- [ ] Gravação do vídeo demonstrando a funcionalidade do GitHub;
+- [ ] Fazer ajustes com base no feedback recebido.
+
 
 ## Sprint 1. Análise Inicial
 - [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
@@ -86,24 +89,33 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [ ] Identificar métricas de produtividade e custo;
 - [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
 - [ ] Calcular frete no Incoterms FOB;
-- [ ] Análise utilizando o Python;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 2 . 
-- [ ] Executar simulações para encontrar as rotas mais eficientes;
-- [ ] Análise utilizando o Python;
-- [ ] Implementar um modelo de otimização de distribuição baseado no Método de Transporte;
+- [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
+- [ ] Realizar análise inicial sobre os dados;
+- [ ] Cálculo de distâncias dos dados recebidos;
+- [ ] Calcular frete no Incoterms FOB;
+- [ ] Apresentar os resultados iniciais aos stakeholders para validação;
 - [ ] Fazer ajustes com base no feedback recebido;
+- [ ] Identificar métricas de produtividade e custo;
+- [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
+- [ ] Desenvolver gráficos interativos para fácil compreensão;
+- [ ] Executar simulações para encontrar as rotas mais eficientes;
+- [ ] Criar painéis no BI para apresentação de resultados;
+- [ ] Análise utilizando o Python;
 - [ ] Manter documentação atualizada no repositório do GitHub.
+
       
 ## Sprint 3. 
-- [ ] Desenvolver consultas SQL para extrair dados relevantes;
-- [ ] Conectar os panéis aos dados do banco de dados SQL;
+- [ ] Desenvolver análise de dados no Python;
 - [ ] Criar painéis no BI para apresentação de resultados;
 - [ ] Desenvolver gráficos interativos para fácil compreensão;
+- [ ] Conectar os panéis aos dados do banco de dados SQL;
+- [ ] Desenvolver consultas no MySQL para extrair dados relevantes;
 - [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Manter documentação atualizada no repositório do GitHub;
+- [ ] Manter documentação atualizada no repositório do GitHub.
 
 
    ## Sprint Feira de Soluções. 
