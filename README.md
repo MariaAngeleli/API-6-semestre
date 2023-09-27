@@ -49,6 +49,16 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 Adicionar video e documentos nessa seção
 
+
+
+https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/26ebb109-627e-4550-be9e-ba08f83c9333
+
+
+https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/750fb355-cc4b-4753-b24b-6812ff66319a
+
+
+
+
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
