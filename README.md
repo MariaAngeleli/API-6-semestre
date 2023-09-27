@@ -33,12 +33,14 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
+*Coleta e analise dados sobre a produtividade dos veículos, como tempos de carregamento, descarregamento e viagem;
+*Identificar gargalos e oportunidades de melhoria na distribuição de carga, considerando fatores como capacidade dos veículos e demanda dos clientes;
+*Utilizar técnicas de otimização para encontrar as rotas mais eficientes em termos de tempo e custo, levando em conta restrições como limitações de peso e tempo de entrega;
+*Avaliar o impacto das alterações propostas na produtividade, distribuição de carga e custos operacionais da empresa;
+*Apresentar recomendações claras e acionáveis ​​para a empresa com base nos resultados da análise;
+*Implementar as melhorias recomendadas e monitorar regularmente os resultados para garantir a eficácia contínua.
+
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -72,7 +74,7 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Manter documentação atualizada no repositório do GitHub;
 - [x] Criação da conta no Jira;
 - [x] Disponibilizar link do Jira;
-- [ ] Configurar o ambiente no Jira para gerenciamento de projetos;
+- [x] Configurar o ambiente no Jira para gerenciamento de projetos;
 - [ ] Defina o objetivo do projeto;
 - [x] Definição de prazos;
 - [x] Divisão de atividades entre o time;
@@ -89,31 +91,28 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [ ] Identificar métricas de produtividade e custo;
 - [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
 - [ ] Calcular frete no Incoterms FOB;
+- [ ] Montar a apresentação no PowerPoint;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 2 . 
-- [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
-- [ ] Realizar análise inicial sobre os dados;
-- [ ] Cálculo de distâncias dos dados recebidos;
-- [ ] Calcular frete no Incoterms FOB;
-- [ ] Apresentar os resultados iniciais aos stakeholders para validação;
-- [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Identificar métricas de produtividade e custo;
-- [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
 - [ ] Desenvolver gráficos interativos para fácil compreensão;
-- [ ] Executar simulações para encontrar as rotas mais eficientes;
 - [ ] Criar painéis no BI para apresentação de resultados;
+- [ ] Executar simulações para encontrar as rotas mais eficientes;
 - [ ] Análise utilizando o Python;
+- [ ] Implementar um modelo de otimização de distribuição baseado no Método de Transportes
+- [ ] Montar a apresentação no PowerPoint;
+- [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
 
       
 ## Sprint 3. 
-- [ ] Desenvolver análise de dados no Python;
-- [ ] Criar painéis no BI para apresentação de resultados;
-- [ ] Desenvolver gráficos interativos para fácil compreensão;
-- [ ] Conectar os panéis aos dados do banco de dados SQL;
+- [ ] Estudo sobre o SQL;
+- [ ] Criação em Banco de Dados no MySQL;
 - [ ] Desenvolver consultas no MySQL para extrair dados relevantes;
+- [ ] Importar os dados para um banco de dados adequado
+- [ ] Conectar os panéis aos dados do banco de dados SQL;
+- [ ] Montar a apresentação no PowerPoint;
 - [ ] Fazer ajustes com base no feedback recebido;
 - [ ] Manter documentação atualizada no repositório do GitHub.
 
