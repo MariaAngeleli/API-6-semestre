@@ -34,7 +34,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
-* Coleta e analise dados sobre a produtividade dos veículos, como tempos de carregamento, descarregamento e viagem;
+* Coleta e análise dados sobre a produtividade dos veículos, como tempos de carregamento, descarregamento e viagem;
 * Identificar gargalos e oportunidades de melhoria na distribuição de carga, considerando fatores como capacidade dos veículos e demanda dos clientes;
 * Utilizar técnicas de otimização para encontrar as rotas mais eficientes em termos de tempo e custo, levando em conta restrições como limitações de peso e tempo de entrega;
 * Avaliar o impacto das alterações propostas na produtividade, distribuição de carga e custos operacionais da empresa;
