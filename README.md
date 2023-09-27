@@ -51,10 +51,7 @@ Adicionar video e documentos nessa seção
 
 
 
-https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/26ebb109-627e-4550-be9e-ba08f83c9333
-
-
-https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/750fb355-cc4b-4753-b24b-6812ff66319a
+https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4d04-8508-3b275cade673
 
 
 
