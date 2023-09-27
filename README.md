@@ -22,7 +22,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 27/09/2023 | Em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 27/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  18/10/2023| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 08/11/2023 | A fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/11/2023 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
@@ -75,13 +75,13 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Criação da conta no Jira;
 - [x] Disponibilizar link do Jira;
 - [x] Configurar o ambiente no Jira para gerenciamento de projetos;
-- [ ] Defina o objetivo do projeto;
+- [x] Defina o objetivo do projeto;
 - [x] Definição de prazos;
 - [x] Divisão de atividades entre o time;
-- [ ] Montar a apresentação no PowerPoint;
-- [ ] Gravação do vídeo demonstrando a funcionalidade do Jira;
-- [ ] Gravação do vídeo demonstrando a funcionalidade do GitHub;
-- [ ] Fazer ajustes com base no feedback recebido.
+- [x] Montar a apresentação no PowerPoint;
+- [x] Gravação do vídeo demonstrando a funcionalidade do Jira;
+- [x] Gravação do vídeo demonstrando a funcionalidade do GitHub;
+- [x] Fazer ajustes com base no feedback recebido.
 
 
 ## Sprint 1. Análise Inicial
