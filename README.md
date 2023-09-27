@@ -47,23 +47,16 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
 Apresentação das funcionalidades
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-
-
+Abaixo, vídeo do Jira do projeto, contendo todas as atividades da Sprint 0.
 
 https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4d04-8508-3b275cade673
-
-
-
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
 <img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/46ce5a9b-f31b-41f4-be8b-14cca55412ae">
 
 
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > Entregar o Jira e o GitHub rodando, juntamente com o burndown do projeto.
 
 # Cronograma das Sprints
 
@@ -114,7 +107,6 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 
       
 ## Sprint 3. 
-- [ ] Estudo sobre o SQL;
 - [ ] Criação em Banco de Dados no MySQL;
 - [ ] Desenvolver consultas no MySQL para extrair dados relevantes;
 - [ ] Importar os dados para um banco de dados adequado
@@ -125,10 +117,8 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 
 
    ## Sprint Feira de Soluções. 
-- [ ] ;
-- [ ] ;
-
-
+- [ ] 
+- [ ] 
 
 Regras de Negócio
 - 
