@@ -2,7 +2,7 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice :notebook_with_decorative_cover:
+# Índice
 
 * [Projetos](#projetos)
 * [Tecnologias](#tecnologias)
@@ -55,7 +55,7 @@ https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4
 <img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/46ce5a9b-f31b-41f4-be8b-14cca55412ae">
 
 
-  ### Produto 
+  ### Produto :bulb:
   > Entregar o Jira e o GitHub rodando, juntamente com o burndown do projeto.
 
 # Cronograma das Sprints :calendar:
