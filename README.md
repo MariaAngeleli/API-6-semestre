@@ -1,8 +1,8 @@
-# Aprendizado por Projeto Integrado (API) :shipit:
+# Aprendizado por Projeto Integrado (API)
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice 🎯
+# Índice :notebook_with_decorative_cover:
 
 * [Projetos](#projetos)
 * [Tecnologias](#tecnologias)
@@ -32,7 +32,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Objetivo do Projeto
+# Objetivo do Projeto 🎯
 Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
 * Coleta e análise dados sobre a produtividade dos veículos, como tempos de carregamento, descarregamento e viagem;
 * Identificar gargalos e oportunidades de melhoria na distribuição de carga, considerando fatores como capacidade dos veículos e demanda dos clientes;
