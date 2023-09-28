@@ -58,13 +58,13 @@ https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4
   ### Produto 
   > Entregar o Jira e o GitHub rodando, juntamente com o burndown do projeto.
 
-# Cronograma das Sprints
+# Cronograma das Sprints :date:
 
 Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá, é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://amandabrib.atlassian.net/jira/software/projects/A62E2/boards/2/backlog)
 
-# Backlog do produto
+# Backlog do produto :pencil:
 
 ## Sprint 0. Concepção
 - [x] Criação da conta pública no Github;
