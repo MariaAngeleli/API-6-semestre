@@ -1,8 +1,8 @@
-# Aprendizado por Projeto Integrado (API)
+# Aprendizado por Projeto Integrado (API) :shipit:
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# Índice 🎯
 
 * [Projetos](#projetos)
 * [Tecnologias](#tecnologias)
@@ -58,7 +58,7 @@ https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4
   ### Produto 
   > Entregar o Jira e o GitHub rodando, juntamente com o burndown do projeto.
 
-# Cronograma das Sprints :date:
+# Cronograma das Sprints :calendar:
 
 Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá, é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
