@@ -44,14 +44,11 @@ Análise de produtividade de veículos, de otimização de distribuição e de c
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
-
 Abaixo, vídeo do Jira do projeto, contendo todas as atividades da Sprint 0.
 
 https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4d04-8508-3b275cade673
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas :computer:
 <img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/46ce5a9b-f31b-41f4-be8b-14cca55412ae">
 
 
