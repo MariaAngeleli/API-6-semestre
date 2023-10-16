@@ -83,14 +83,14 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 
 ## Sprint 1. Análise Inicial
 - [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
-- [ ] Cálculo de distâncias dos dados recebidos;
+- [x] Cálculo de distâncias dos dados recebidos;
 - [ ] Apresentar os resultados iniciais aos stakeholders para validação;
 - [ ] Identificar métricas de produtividade e custo;
-- [ ] Estabelecer conexão com as fontes de dados dos veículos e rotas;
+- [x] Estabelecer conexão com as fontes de dados dos veículos e rotas;
 - [ ] Calcular frete no Incoterms FOB/CIF;
 - [ ] Montar a apresentação no PowerPoint;
 - [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Manter documentação atualizada no repositório do GitHub.
+- [x] Manter documentação atualizada no repositório do GitHub.
       
 ## Sprint 2 . 
 - [ ] Desenvolver gráficos interativos para fácil compreensão;
