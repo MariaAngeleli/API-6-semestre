@@ -64,54 +64,24 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 # Backlog do produto :pencil:
 
 ## Sprint 0. Concepção
-- [x] Criação da conta pública no Github;
-- [x] Disponibilizar link do GitHub;
-- [x] Checar se todos os membros têm acesso;
-- [x] Definir responsável pela atualização;
-- [x] Manter documentação atualizada no repositório do GitHub;
-- [x] Criação da conta no Jira;
-- [x] Disponibilizar link do Jira;
-- [x] Configurar o ambiente no Jira para gerenciamento de projetos;
-- [x] Defina o objetivo do projeto;
-- [x] Definição de prazos;
-- [x] Divisão de atividades entre o time;
-- [x] Montar a apresentação no PowerPoint;
-- [x] Gravação do vídeo demonstrando a funcionalidade do Jira;
-- [x] Gravação do vídeo demonstrando a funcionalidade do GitHub;
-- [x] Fazer ajustes com base no feedback recebido.
-
+- [X] Definição do Objetivos a serem atendidos​;
+- [X] ​Definições das responsabilidades dos membros do Time​;
+- [X] Configuração do ambiente para gerenciamento de projeto​;
+- [X] ​Configuração do repositório para disponibilidade do projeto​.
 
 ## Sprint 1. Análise Inicial
-- [ ] Realizar análise exploratória dos dados para identificar padrões e tendências;
-- [x] Cálculo de distâncias dos dados recebidos;
-- [ ] Apresentar os resultados iniciais aos stakeholders para validação;
-- [ ] Identificar métricas de produtividade e custo;
-- [x] Estabelecer conexão com as fontes de dados dos veículos e rotas;
-- [ ] Calcular frete no Incoterms FOB/CIF;
-- [ ] Montar a apresentação no PowerPoint;
-- [ ] Fazer ajustes com base no feedback recebido;
-- [x] Manter documentação atualizada no repositório do GitHub.
+- [x] Análise dos dados obtidos​;
+- [X] Calcular os custos de transporte​;
+- [X] Desenvolvimento parcial das telas do Power BI.
       
 ## Sprint 2 . 
-- [ ] Desenvolver gráficos interativos para fácil compreensão;
-- [ ] Criar painéis no BI para apresentação de resultados;
-- [ ] Executar simulações para encontrar as rotas mais eficientes;
-- [ ] Análise utilizando o Python;
-- [ ] Implementar um modelo de otimização de distribuição baseado no Método de Transportes
-- [ ] Montar a apresentação no PowerPoint;
-- [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Manter documentação atualizada no repositório do GitHub.
-
+- [ ] Implementar o Python na análise dos dados​;
+- [ ] ​Otimização distribuição do transporte​;
+- [ ] Desenvolvimento total das telas do Power BI​.
       
 ## Sprint 3. 
-- [ ] Criação em Banco de Dados no MySQL;
-- [ ] Desenvolver consultas no MySQL para extrair dados relevantes;
-- [ ] Importar os dados para um banco de dados adequado
-- [ ] Conectar os panéis aos dados do banco de dados SQL;
-- [ ] Montar a apresentação no PowerPoint;
-- [ ] Fazer ajustes com base no feedback recebido;
-- [ ] Manter documentação atualizada no repositório do GitHub.
-
+- [ ] Criação do Banco de Dados para armazenamento dos dados obtidos​;
+- [ ] Apresentação de Resultados obtidos​.
 
    ## Sprint Feira de Soluções. 
 - [ ] 
