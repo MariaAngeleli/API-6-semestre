@@ -72,11 +72,11 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [X] Desenvolvimento parcial das telas do Power BI.
       
 ## Sprint 2 . 
-- [ ] Implementar o Python na análise dos dados​;
-- [ ] ​Implementar um modelo de otimização de distribuição baseado no Método de Transportes;					
-- [ ] Desenvolvimento total das telas do Power BI​;
+- [x] Implementar o Python na análise dos dados​;
+- [x] ​Implementar um modelo de otimização de distribuição baseado no Método de Transportes;					
+- [x] Desenvolvimento total das telas do Power BI​;
 - [X] Dados da produtividade;
-- [ ] Desenvolver gráficos interativos.
+- [x] Desenvolver gráficos interativos.
       
 ## Sprint 3. 
 - [ ] Criação do Banco de Dados para armazenamento dos dados obtidos​;
