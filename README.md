@@ -25,8 +25,8 @@ Sprint | Previsão | Status| Histórico|
 |00 | 27/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  18/10/2023| Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 08/11/2023 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 |Em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 29/11/2023 |Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2023 |Em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 
@@ -79,7 +79,9 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Desenvolver gráficos interativos.
       
 ## Sprint 3. 
-- [ ] Criação do Banco de Dados para armazenamento dos dados obtidos​;
+- [ ] Criação do Banco de Dados MySQL para armazenamento dos dados obtidos​;
+- [ ] Desenvolver consultas SQL;
+- [ ] Conectar os painéis ao banco de dados;
 - [ ] Apresentação de Resultados obtidos​.
 
    ## Sprint Feira de Soluções. 
