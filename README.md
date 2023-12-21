@@ -85,7 +85,7 @@ Ao clicar, você será redirecionado ao cronograma detalhado desse projeto. Lá,
 - [x] Apresentação de Resultados obtidos​.
 
    ## Sprint Feira de Soluções. 
-- [x] Apresentação os convidados. 
+- [x] Apresentação aos convidados. 
 
 Regras de Negócio
 - 
